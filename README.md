@@ -1,6 +1,6 @@
 ## Try it
 
-[https://www.sitepoint.com/json-server-example/](Data extracted from here )
+[https://www.sitepoint.com/json-server-example/ ](Data extracted from here)
 
 ## Use your own data
 
